@@ -1,0 +1,8 @@
+[2019-09-18 17:28:39.678] - 10328 严重 [main] --- org.apache.catalina.core.AprLifecycleListener: An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+[2019-09-18 17:28:39.855] - 10328 严重 [main] --- org.apache.catalina.core.AprLifecycleListener: An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+[2019-09-18 17:28:39.870] - 10328 信息 [main] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2019-09-18 17:28:39.871] - 10328 信息 [main] --- org.apache.catalina.core.StandardEngine: Starting Servlet engine: [Apache Tomcat/9.0.14]
+[2019-09-18 17:28:39.880] - 10328 严重 [main] --- org.apache.catalina.core.AprLifecycleListener: An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+[2019-09-18 17:28:40.270] - 10328 信息 [main] --- org.apache.jasper.servlet.TldScanner: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-09-18 17:28:40.275] - 10328 信息 [main] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]: Initializing Spring embedded WebApplicationContext
+[2019-09-18 17:28:42.104] - 10328 信息 [main] --- org.apache.catalina.core.StandardService: Stopping service [Tomcat]

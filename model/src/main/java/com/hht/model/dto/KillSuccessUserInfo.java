@@ -1,0 +1,27 @@
+package com.hht.model.dto;/**
+ * Created by Administrator on 2019/6/21.
+ */
+
+import com.hht.model.entity.ItemKillSuccess;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+
+import java.io.Serializable;
+
+/**
+ * @Author:debug (SteadyJack)
+ * @Date: 2019/6/21 22:02
+ **/
+@EqualsAndHashCode(callSuper = true)
+@Data
+public class KillSuccessUserInfo extends ItemKillSuccess implements Serializable{
+
+    private String userName;
+
+    private String phone;
+
+    private String email;
+
+    private String itemName;
+
+}
